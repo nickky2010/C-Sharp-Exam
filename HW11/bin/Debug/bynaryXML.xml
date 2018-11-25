@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfSportsmen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sportsmen xsi:type="Gymnast">
+    <surname>Сидорович</surname>
+    <age>27</age>
+    <sports>гимнастика</sports>
+    <markRings>8.84</markRings>
+    <markBars>7.97</markBars>
+    <vault>7.71</vault>
+  </Sportsmen>
+  <Sportsmen xsi:type="Gymnast">
+    <surname>Куликов</surname>
+    <age>25</age>
+    <sports>гимнастика</sports>
+    <markRings>8.54</markRings>
+    <markBars>7.91</markBars>
+    <vault>6.81</vault>
+  </Sportsmen>
+  <Sportsmen xsi:type="Gymnast">
+    <surname>Кулик</surname>
+    <age>19</age>
+    <sports>гимнастика</sports>
+    <markRings>7.24</markRings>
+    <markBars>8.9</markBars>
+    <vault>9.21</vault>
+  </Sportsmen>
+  <Sportsmen xsi:type="Gymnast">
+    <surname>Петров</surname>
+    <age>18</age>
+    <sports>гимнастика</sports>
+    <markRings>6.25</markRings>
+    <markBars>7.9</markBars>
+    <vault>8.21</vault>
+  </Sportsmen>
+</ArrayOfSportsmen>

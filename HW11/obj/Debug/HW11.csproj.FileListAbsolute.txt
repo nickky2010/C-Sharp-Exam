@@ -1,0 +1,14 @@
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\bin\Debug\HW11.exe.config
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\bin\Debug\HW11.exe
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\bin\Debug\HW11.pdb
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\obj\Debug\HW11.csprojAssemblyReference.cache
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\obj\Debug\HW11.csproj.CoreCompileInputs.cache
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\obj\Debug\HW11.exe
+A:\Учеба\C#.net\Домашние задания\HW11\HW11\obj\Debug\HW11.pdb
+A:\Учеба\C#.net\Экзамен\HW11\HW11\bin\Debug\HW11.exe.config
+A:\Учеба\C#.net\Экзамен\HW11\HW11\bin\Debug\HW11.exe
+A:\Учеба\C#.net\Экзамен\HW11\HW11\bin\Debug\HW11.pdb
+A:\Учеба\C#.net\Экзамен\HW11\HW11\obj\Debug\HW11.csprojAssemblyReference.cache
+A:\Учеба\C#.net\Экзамен\HW11\HW11\obj\Debug\HW11.csproj.CoreCompileInputs.cache
+A:\Учеба\C#.net\Экзамен\HW11\HW11\obj\Debug\HW11.exe
+A:\Учеба\C#.net\Экзамен\HW11\HW11\obj\Debug\HW11.pdb
